@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Sunil Kumar Singh">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10459</md:content-id>
     <md:title>Gravitation fundamentals</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>d4026690-b134-4918-83be-a6ab8d6db038</md:uuid>
-<md:slug>gravitation-fundamentals</md:slug>
-</metadata>
+    <md:slug>gravitation-fundamentals</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m15085"/>
     <col:module document="m15087"/>
